@@ -1,0 +1,22 @@
+{
+  "wheel_id": 819,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-109",
+  "project": "mortgage-broker-bendigo-checklist-c202f8f2071fd78176f9ed1d3144a",
+  "parent_t1_ref": "bendigohomeloanbroker-153",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo checklist",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-bendigo-checklist-c202f8f2071fd78176f9ed1d3144a/",
+  "tier": "T2",
+  "writeback_nonce": "b4b23e5315131bc9",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bendigohomeloanbroker-153/",
+      "anchor": "Mortgage Broker Bendigo Suburb Guide: for Home Buyers",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
